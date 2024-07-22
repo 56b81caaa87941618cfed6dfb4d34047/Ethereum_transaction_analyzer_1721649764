@@ -74,5 +74,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "purple_hero_component_1721649875.js": {
+        "id": "purple_hero_component-26b8a5d6-2e57-7e95-a588-3084d7c1d610",
+        "name": "purple_hero_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "90",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
